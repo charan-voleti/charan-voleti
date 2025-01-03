@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Data Analytics<br>🎯 Goals: To Become a Data Scientist<br>🎲 Fun fact: I think I am funny</p>
+<p align="left">✨ I'm Intrested in Cutting-Edge Technologies<br>📚 I'm currently learning Data Analytics<br>🎯 Goals: To Become a Data Scientist<br>🎲 Fun fact: I think I am funny</p>
 
 ###
 
