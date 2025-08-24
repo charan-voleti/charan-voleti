@@ -7,11 +7,11 @@
 
 ###
 
-<p align="left">✨ I'm Intrested in Cutting-Edge Technologies<br>📚 I'm currently learning Data Analytics<br>🎯 Goals: To Become a Data Scientist<br>🎲 Fun fact: I think I am funny</p>
+<p align="left">✨ I'm Intrested in Cutting-Edge Technologies<br>📚 I'm currently building MERN Stack Projects<br>🎯 Goals: To Explore Cloud Technologies<br>🎲 Fun fact: I am Innocent</p>
 
 ###
 
-<h2 align="left">I code with Python</h2>
+<h2 align="left">I code with Coffee and Music</h2>
 
 ###
 
